@@ -1,0 +1,224 @@
+# Synthèse exécutive
+
+## 1. Validation des volumes clés
+
+- Total organismes : 154,107
+- 0 formateur : 46,699 (30.30%)
+- 1 formateur : 67,973 (44.11%)
+- 2 formateurs : 7,976 (5.18%)
+- 3-10 formateurs : 17,497 (11.35%)
+- 11-20 formateurs : 5,366 (3.48%)
+- 21+ formateurs : 8,596 (5.58%)
+- Total stagiaires déclarés : 35,657,337
+
+
+## 2. Concentration du marché
+
+- 74.4% des OF ont 0 ou 1 formateur (74.4%)
+- Segment 3-10 : 17,497 OF (11.35%)
+
+
+## 3. Potentiel segments adjacents
+
+- OF 1-2 formateurs : 75,949 (49.28% de la base)
+- OF 11-20 formateurs : 5,366 (3.48% de la base)
+
+- Stagiaires moyens 3-10 vs 1 : 666.7% | vs 2 : 203.7%
+- Stagiaires totaux 3-10 : 4,162,268 (11.67% du total)
+
+- Productivité stagiaires/formateur 3-10 vs 1 : 125.4% | vs 2 : 76.6% | vs 11-20 : 114.8%
+
+
+## 4. Distribution & outliers
+
+OF avec effectif > 1000 : 186
+
+- PREPAVENIR FORMATION : effectif=375,438, nb_stagiaires=284, ratio=0.0
+- Doceo Formation : effectif=61,663, nb_stagiaires=148, ratio=0.0
+- AFC : effectif=52,439, nb_stagiaires=549, ratio=0.0
+- Monsieur ERIC EVRARD : effectif=18,940, nb_stagiaires=0, ratio=0.0
+- GO PRO : effectif=14,000, nb_stagiaires=44, ratio=0.0
+- FEDERATION NATIONALE DE PROTECTION CIVILE : effectif=13,393, nb_stagiaires=110,682, ratio=8.3
+- CENTRE NATIONAL FONCTION PUBLIQUE TERRITORIALE : effectif=12,724, nb_stagiaires=1,012,977, ratio=79.6
+- FORMASUP PARIS ILE-DE-FRANCE : effectif=11,212, nb_stagiaires=6,463, ratio=0.6
+- CAP COMPETENCES ACTIVATEUR DE TALENTS : effectif=8,386, nb_stagiaires=1,079,586, ratio=128.7
+- FORMA CONNECT : effectif=8,010, nb_stagiaires=272, ratio=0.0
+- CROIX ROUGE FRANCAISE : effectif=7,042, nb_stagiaires=108,130, ratio=15.4
+- UNIVERSITE DE LORRAINE : effectif=6,109, nb_stagiaires=13,133, ratio=2.1
+- MIDISUP : effectif=6,083, nb_stagiaires=4,290, ratio=0.7
+- POINT FORMATION : effectif=5,786, nb_stagiaires=121, ratio=0.0
+- ECOLE DE CONDUITE SAINT-FARGEAU : effectif=5,275, nb_stagiaires=211, ratio=0.0
+- EFF FORMATION MONSIEUR FASSI ERIC : effectif=5,138, nb_stagiaires=5,138, ratio=1.0
+- FORMASUP HAUTS DE FRANCE : effectif=5,000, nb_stagiaires=14,755, ratio=3.0
+- ALTHEM FORMATION : effectif=4,991, nb_stagiaires=838, ratio=0.2
+- FLYNESS SECURITY : effectif=4,680, nb_stagiaires=258, ratio=0.1
+- PAJOT ET  PARTNERS : effectif=4,500, nb_stagiaires=18, ratio=0.0
+- CFA ENSUP LR UNIVERSITE DE MONTPELLIER : effectif=4,457, nb_stagiaires=4,581, ratio=1.0
+- AGEFASUP - CFA FORMASUP PAYS DE LA LOIRE : effectif=4,150, nb_stagiaires=6,798, ratio=1.6
+- EVIDENCE LA PREVENTION POSITIVE : effectif=4,150, nb_stagiaires=1,457, ratio=0.4
+- ADAFORSS : effectif=3,998, nb_stagiaires=2,561, ratio=0.6
+- UNIVERSITE DE PARIS EST CRETEIL : effectif=3,987, nb_stagiaires=9,499, ratio=2.4
+- UNIVERSITE DE LILLE : effectif=3,970, nb_stagiaires=11,332, ratio=2.9
+- FORMASUP PROVENCE ALPES COTE D'AZUR : effectif=3,960, nb_stagiaires=15,548, ratio=3.9
+- UNIVERSITE DE BORDEAUX : effectif=3,958, nb_stagiaires=11,493, ratio=2.9
+- UNIVERSITE TOULOUSE III - PAUL SABATIER : effectif=3,872, nb_stagiaires=9,440, ratio=2.4
+- UNIVERSITE PARIS SACLAY : effectif=3,832, nb_stagiaires=7,732, ratio=2.0
+- UNIVERSITÉ GRENOBLE ALPES : effectif=3,801, nb_stagiaires=11,758, ratio=3.1
+- GENESE FORMATION : effectif=3,640, nb_stagiaires=102, ratio=0.0
+- CENTRE D'ETUDES SUPERIEURES INDUSTRIELLES PARIS : effectif=3,610, nb_stagiaires=18,650, ratio=5.2
+- UNIVERSITE DE LIMOGES : effectif=3,608, nb_stagiaires=2,920, ratio=0.8
+- ACADEMIE FRANCE TRAVAIL : effectif=3,569, nb_stagiaires=469,880, ratio=131.7
+- UNIVERSITE DE FRANCHE COMTE SERVICE FORMATION CONTINUE ET ALTERNANCE : effectif=3,560, nb_stagiaires=5,945, ratio=1.7
+- SEPR STE D'ENSEIGNEMENT PROFESSIONNEL DU RHONE : effectif=3,446, nb_stagiaires=5,459, ratio=1.6
+- UNIVERSITE LUMIERE LYON II -  SERVICE FORMATION CONTINUE : effectif=3,326, nb_stagiaires=6,177, ratio=1.9
+- UNIVERSITE DE STRASBOURG : effectif=3,082, nb_stagiaires=12,640, ratio=4.1
+- UNIVERSITE HAUTE ALSACE SERFA CFAU : effectif=3,079, nb_stagiaires=8,653, ratio=2.8
+- UNIVERSITE CLAUDE BERNARD LYON I - SERVICE FORMATION CONTINUE ET ALTERNANCE : effectif=2,905, nb_stagiaires=9,740, ratio=3.4
+- La Canopée du Gâtinais : effectif=2,874, nb_stagiaires=17, ratio=0.0
+- UNION UNIVERSITE ECONOMIE : effectif=2,857, nb_stagiaires=3,431, ratio=1.2
+- APAVE EXPLOITATION FRANCE : effectif=2,819, nb_stagiaires=421,285, ratio=149.4
+- LA COMPAGNIE DE FORMATION : effectif=2,817, nb_stagiaires=12,606, ratio=4.5
+- ECOLE NATIONALE DE LA MAGISTRATURE / ENM : effectif=2,791, nb_stagiaires=21,189, ratio=7.6
+- GIVE SENSE and LIGHT PRODUCTION : effectif=2,781, nb_stagiaires=2,781, ratio=1.0
+- UDD : effectif=2,760, nb_stagiaires=114,229, ratio=41.4
+- LES MILLES CONDUITE : effectif=2,700, nb_stagiaires=108, ratio=0.0
+- IRCAD : effectif=2,645, nb_stagiaires=2,630, ratio=1.0
+- P.L. DIFFUSION : effectif=2,641, nb_stagiaires=2,641, ratio=1.0
+- UNIVERSITE PARIS CITE : effectif=2,639, nb_stagiaires=22,192, ratio=8.4
+- LA CENTRALE DE FORMATION : effectif=2,638, nb_stagiaires=13,583, ratio=5.1
+- Institut de Formation Professionnelle en Région Académique : effectif=2,629, nb_stagiaires=9,142, ratio=3.5
+- ECOLE SUPERIEURE DE LA BANQUE : effectif=2,597, nb_stagiaires=31,104, ratio=12.0
+- UNIVERSITE D'ANGERS : effectif=2,589, nb_stagiaires=3,461, ratio=1.3
+- AFPA AGENCE NATIONALE POUR LA FORMATION PROFESSIONNELLE DES ADULTES : effectif=2,575, nb_stagiaires=7,484, ratio=2.9
+- GIP FORMATION ET CERTIFICATION POUR L'INSERTION PROFESSIONNELLE : effectif=2,479, nb_stagiaires=4,636, ratio=1.9
+- OCELLIA SANTE-SOCIAL : effectif=2,469, nb_stagiaires=6,278, ratio=2.5
+- CONSERVATOIRE NATIONAL DES ARTS ET METIERS : effectif=2,445, nb_stagiaires=29,938, ratio=12.2
+- ARFASS BRETAGNE : effectif=2,366, nb_stagiaires=1,516, ratio=0.6
+- AFTRAL : effectif=2,358, nb_stagiaires=333,088, ratio=141.3
+- AKTEAP : effectif=2,358, nb_stagiaires=5,372, ratio=2.3
+-  GIP FCIP EDUCATION ET FORMATION TOUT AU LONG DE LA VIE : effectif=2,299, nb_stagiaires=13,869, ratio=6.0
+- Université Paris Nanterre : effectif=2,294, nb_stagiaires=6,556, ratio=2.9
+- UNIVERSITE CLERMONT AUVERGNE : effectif=2,278, nb_stagiaires=7,050, ratio=3.1
+- UNIVERSITE JEAN MOULIN LYON 3  : effectif=2,204, nb_stagiaires=6,338, ratio=2.9
+- THALES GLOBAL SERVICES : effectif=2,194, nb_stagiaires=45,588, ratio=20.8
+- UNIVERSITE DE REIMS CHAMPAGNE-ARDENNE : effectif=2,145, nb_stagiaires=5,655, ratio=2.6
+- ASS DE GESTION DU CFA REGIONAL DES HAUTS DE FRANCE JEAN BOSCO : effectif=2,101, nb_stagiaires=10,571, ratio=5.0
+- UNIVERSITE DE RENNES : effectif=2,087, nb_stagiaires=7,369, ratio=3.5
+- M2I SCRIBTEL : effectif=2,073, nb_stagiaires=26,580, ratio=12.8
+- M2I : effectif=2,065, nb_stagiaires=52,669, ratio=25.5
+- UNIVERSITE DE CAEN NORMANDIE  : effectif=2,061, nb_stagiaires=7,884, ratio=3.8
+- UNIVERSITE PARIS XIII DENOMMEE UNIVERSITE SORBONNE PARIS NORD : effectif=2,039, nb_stagiaires=4,119, ratio=2.0
+- INSTITUT DE LA GESTION PUBLIQUE ET DU DEVELOPEMENT ECONOMIQUE : effectif=2,037, nb_stagiaires=52,574, ratio=25.8
+- DE VINCI HIGHER EDUCATION : effectif=2,035, nb_stagiaires=3,493, ratio=1.7
+- MARIANNE  FORMATION : effectif=1,999, nb_stagiaires=109,100, ratio=54.6
+- CY CERGY PARIS UNIVERSITE : effectif=1,987, nb_stagiaires=5,679, ratio=2.9
+- SERVICE DEPARTEMENTAL METROPOLITAIN  D INCENDIE ET DE SECOURS : effectif=1,983, nb_stagiaires=4,986, ratio=2.5
+- KERING TALENT & LEARNING : effectif=1,982, nb_stagiaires=1,982, ratio=1.0
+- GESTIONNAIRE CFA POUR METIERS CHAMP SOCIAL ET MEDICO SOCIAL VAL DE LOIRE : effectif=1,925, nb_stagiaires=810, ratio=0.4
+- CARME Jean -Louis : effectif=1,904, nb_stagiaires=32, ratio=0.0
+- CFA DES UNIVERSITES CENTRE VAL DE LOIRE : effectif=1,899, nb_stagiaires=4,615, ratio=2.4
+- SM BEAUTY : effectif=1,890, nb_stagiaires=32, ratio=0.0
+- CEGOS SA  : effectif=1,847, nb_stagiaires=191,627, ratio=103.8
+- ACTUAL DIGITAL RHONE ALPES : effectif=1,820, nb_stagiaires=67, ratio=0.0
+- IFPAN : effectif=1,813, nb_stagiaires=71, ratio=0.0
+- ASSOCIATION INTERNATIONALE POUR LA FORMATION : effectif=1,787, nb_stagiaires=0, ratio=0.0
+- GIP FCIP DE L'ACADEMIE DE VERSAILLES : effectif=1,779, nb_stagiaires=4,897, ratio=2.8
+- SOC FRANCAISE DE CARDIOLOGIE : effectif=1,762, nb_stagiaires=396, ratio=0.2
+- SORBONNE UNIVERSITE : effectif=1,748, nb_stagiaires=8,669, ratio=5.0
+- INSTITUT DE GESTION SOCIALE : effectif=1,741, nb_stagiaires=6,120, ratio=3.5
+- A.S.A.  SERVICES A L'ENTREPRISE : effectif=1,737, nb_stagiaires=53, ratio=0.0
+- SAUVETEUR SECOURISTE DU TRAVAIL : effectif=1,730, nb_stagiaires=1,730, ratio=1.0
+- UNIVERSITE DE PAU ET DES PAYS DE L'ADOUR : effectif=1,675, nb_stagiaires=3,210, ratio=1.9
+- AN.CFA-PSS : effectif=1,629, nb_stagiaires=755, ratio=0.5
+- UNIVERSITE PARIS DAUPHINE DEPART EDUCATION PERMANENTE : effectif=1,628, nb_stagiaires=4,211, ratio=2.6
+- ASKORIA : effectif=1,614, nb_stagiaires=9,134, ratio=5.7
+- ORGANISME DE GESTION DE L'APPRENTISSAGE DANS L'ENSEIGNEMENT SUPERIEUR : effectif=1,612, nb_stagiaires=2,857, ratio=1.8
+- FORM'SUR : effectif=1,609, nb_stagiaires=1,609, ratio=1.0
+- CENTRE HOSPITALIER UNIVERSITAIRE DE BORDEAUX : effectif=1,586, nb_stagiaires=13,539, ratio=8.5
+- ASSOCIATION DE GESTION DU CFA SUPERIEUR DE BOURGOGNE : effectif=1,578, nb_stagiaires=4,036, ratio=2.6
+- DIGITECH SA : effectif=1,555, nb_stagiaires=1,555, ratio=1.0
+- TUTOS'ME : effectif=1,553, nb_stagiaires=64,200, ratio=41.3
+- INSTITUT NATIONAL DE FORMATION : effectif=1,549, nb_stagiaires=55,697, ratio=36.0
+- CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS DE FRANCE - CCIR : effectif=1,548, nb_stagiaires=20,056, ratio=13.0
+- CHAMBRE DE COMMERCE ET D INDUSTRIE DE REGION PARIS ILE DE FRANCE : effectif=1,548, nb_stagiaires=14,766, ratio=9.5
+- S D I S  MARNE : effectif=1,547, nb_stagiaires=4,119, ratio=2.7
+- AMLEANO : effectif=1,546, nb_stagiaires=1,546, ratio=1.0
+- BULENT TURAN : effectif=1,541, nb_stagiaires=1,541, ratio=1.0
+- L'ATELIER DS EXCELLENCE : effectif=1,540, nb_stagiaires=51, ratio=0.0
+- SERVICE DEPARTEMENTAL D'INCENDIE ET DE SECOURS BDR : effectif=1,524, nb_stagiaires=30,771, ratio=20.2
+- Monsieur ALAIN COLEGNO : effectif=1,518, nb_stagiaires=0, ratio=0.0
+- STE FRANCAISE DE RADIOLOGIE  : effectif=1,512, nb_stagiaires=16,905, ratio=11.2
+- GCM FORMATION SECURITE : effectif=1,507, nb_stagiaires=350, ratio=0.2
+- INSTITUT SUPERIEUR DE GESTION : effectif=1,479, nb_stagiaires=2,166, ratio=1.5
+- ECOLE NATIONALE SUPERIEURE DES OFFICIERS DE SAPEURS POMPIERS ENSOSP : effectif=1,474, nb_stagiaires=6,038, ratio=4.1
+- GRETA CENTRE-VAL DE LOIRE : effectif=1,458, nb_stagiaires=4,145, ratio=2.8
+- AGESUP  : effectif=1,455, nb_stagiaires=2,959, ratio=2.0
+- SARL PG-LIB-PRO-CONSULTANT : effectif=1,415, nb_stagiaires=1,415, ratio=1.0
+- DIFCAM : effectif=1,400, nb_stagiaires=2,969, ratio=2.1
+- Inas FIEGL - MIKHAEL : effectif=1,400, nb_stagiaires=0, ratio=0.0
+- 2PSI : effectif=1,392, nb_stagiaires=1,126, ratio=0.8
+- SERVICE DEPARTEMENTAL D'INCENDIE ET SECOURS SARTHE : effectif=1,392, nb_stagiaires=254, ratio=0.2
+- INSTITUT NATIONAL D'ENSEIGNEMENT SUPERIEUR POUR L'AGRICULTURE L'ALIMENTATION ET L'ENVIRONNEMENT : effectif=1,387, nb_stagiaires=3,455, ratio=2.5
+- CFA DES METIERS DE LA SANTE ET DU SOCIAL AUVERGNE RHONE ALPES : effectif=1,375, nb_stagiaires=751, ratio=0.5
+- YNOV : effectif=1,359, nb_stagiaires=2,612, ratio=1.9
+- SINCA : effectif=1,354, nb_stagiaires=1,354, ratio=1.0
+- ECOLE DE FORMATION PROFESSION DES BARREAUX COUR D'APPEL DE PARIS : effectif=1,332, nb_stagiaires=13,756, ratio=10.3
+- GROUPE IGS - CIEFA : effectif=1,326, nb_stagiaires=9,919, ratio=7.5
+- PURPLE CAMPUS : effectif=1,326, nb_stagiaires=15,615, ratio=11.8
+- ASSOC. REGIONALE  DU TRAVAIL SOCIAL HAUTS DE FRANCE : effectif=1,323, nb_stagiaires=8,779, ratio=6.6
+- ENSEIS : effectif=1,321, nb_stagiaires=2,974, ratio=2.3
+- Conseil & Expertise des Réseaux d'Energie Electrique : effectif=1,317, nb_stagiaires=0, ratio=0.0
+- BRASSART PACA : effectif=1,307, nb_stagiaires=2, ratio=0.0
+- En Voiture Simone : effectif=1,304, nb_stagiaires=12,947, ratio=9.9
+- C N A M Pays de la Loire - association de gestion : effectif=1,303, nb_stagiaires=11,757, ratio=9.0
+- AFTEC : effectif=1,282, nb_stagiaires=7,481, ratio=5.8
+- GIP FORMATION TOUT AU LONG DE LA VIE de l'Académie de Besançon : effectif=1,258, nb_stagiaires=1,528, ratio=1.2
+- EURIDIS MANAGEMENT : effectif=1,257, nb_stagiaires=6,076, ratio=4.8
+- Madame EMILIE LANDA : effectif=1,243, nb_stagiaires=83, ratio=0.1
+- ABC FORMATION : effectif=1,240, nb_stagiaires=123, ratio=0.1
+- SOCOTEC FORMATION : effectif=1,240, nb_stagiaires=159,692, ratio=128.8
+- CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION NOUVELLE-AQUITAINE : effectif=1,239, nb_stagiaires=27,678, ratio=22.3
+- STE DE REANIMATION DE LANGUE FRANCAISE : effectif=1,230, nb_stagiaires=3,027, ratio=2.5
+- CHU D'ORLEANS - HOPITAL LA SOURCE : effectif=1,221, nb_stagiaires=5,970, ratio=4.9
+- ASSOCIATION GROUPE ESSEC MANAGEMENT EDUCATION : effectif=1,220, nb_stagiaires=4,791, ratio=3.9
+- ASS OUVRIERE DES COMPAGNONS DEVOIR DU TOUR DE FRANCE : effectif=1,199, nb_stagiaires=19,527, ratio=16.3
+- PRICEWATERHOUSECOOPERS FORMATION SNC : effectif=1,196, nb_stagiaires=6,614, ratio=5.5
+- Monsieur JEREMY DE MARIA : effectif=1,186, nb_stagiaires=22, ratio=0.0
+- DIRECTION DEPARTEMENTALE DES SERVICES D'INCENDIE DU VAR : effectif=1,180, nb_stagiaires=12,538, ratio=10.6
+- ECOLE DES HAUTES ETUDES EN SANTE PUBLIQUE : effectif=1,171, nb_stagiaires=5,165, ratio=4.4
+- MCO CONGRES : effectif=1,146, nb_stagiaires=0, ratio=0.0
+- ASSOCIATION REGIONALE DES INSTITUTS DE FORMATION EN TRAVAIL SOCIAL : effectif=1,144, nb_stagiaires=10,015, ratio=8.8
+- CNAM NOUVELLE AQUITAINE - ASSOCIATION DE GESTION : effectif=1,133, nb_stagiaires=1,679, ratio=1.5
+- INST DE FORMATION DU CREDIT AGRICOLE MUTUEL IFCAM : effectif=1,124, nb_stagiaires=55,027, ratio=49.0
+- INSTITUT SUPERIEUR DE L'AERONAUTIQUE ET DE L'ESPACE (ISAE) : effectif=1,120, nb_stagiaires=310, ratio=0.3
+- CHAMBRE DE METIERS ET DE L'ARTISANAT DE REGION OCCITANIE : effectif=1,119, nb_stagiaires=29,056, ratio=26.0
+- PONTS FORMATION CONSEIL : effectif=1,112, nb_stagiaires=3,375, ratio=3.0
+- UNIVERSITE BOURGOGNE EUROPE : effectif=1,104, nb_stagiaires=5,034, ratio=4.6
+- ADECCO TRAINING : effectif=1,101, nb_stagiaires=58,087, ratio=52.8
+- METIERS DES INDUSTRIES DE SANTE ET BIEN ETRE - MIS APPRENTISSAGE : effectif=1,100, nb_stagiaires=3,083, ratio=2.8
+- CENTRE HOSPITALIER UNIVERSITAIRE DE LA REUNION : effectif=1,099, nb_stagiaires=4,681, ratio=4.3
+- ASSOCIATION POUR LA FORMATION A L'INFORMATIQUE ET AU NUMERIQUE : effectif=1,074, nb_stagiaires=12, ratio=0.0
+- INSA INST. NAT. DES SCIENCES APPLIQUEES : effectif=1,073, nb_stagiaires=151, ratio=0.1
+- INST REGIONAL DE TRAVAIL SOCIAL : effectif=1,073, nb_stagiaires=924, ratio=0.9
+- GRETA-CFA Loire Atlantique : effectif=1,067, nb_stagiaires=4,840, ratio=4.5
+- CENTRE HOSPITALIER UNIVERSITAIRE DE ROUEN : effectif=1,064, nb_stagiaires=8,006, ratio=7.5
+- DEKRA INDUSTRIAL : effectif=1,054, nb_stagiaires=98,091, ratio=93.1
+- ASS FONDATEURS PROTECTEURS INSTIT CATHOLIQUE LYON  : effectif=1,052, nb_stagiaires=486, ratio=0.5
+- GIP FORMATION CONTINUE ET INSERTION PROFESSIONNELLE DE L'ACADEMIE DE CRETEIL : effectif=1,047, nb_stagiaires=3,020, ratio=2.9
+- LAETITIA MACCONI : effectif=1,047, nb_stagiaires=1,047, ratio=1.0
+- ORSYS  : effectif=1,044, nb_stagiaires=117,489, ratio=112.5
+- GRETA MARSEILLE MEDITERRANEE : effectif=1,037, nb_stagiaires=4,521, ratio=4.4
+- UCO Angers-Nantes (ASSOCIATION ST YVES) : effectif=1,036, nb_stagiaires=2,225, ratio=2.1
+- CHRU DE TOURS DIR.DU PERSONNEL ET AFF. SOCIALES : effectif=1,031, nb_stagiaires=1,007, ratio=1.0
+- UNIVERSITE TOULOUSE CAPITOLE : effectif=1,024, nb_stagiaires=3,085, ratio=3.0
+- DUTY FORMATION : effectif=1,020, nb_stagiaires=157, ratio=0.2
+- MC INVESTS : effectif=1,020, nb_stagiaires=152, ratio=0.1
+- GROUPEMENT D'INTERET PUBLIC AUVERGNE : effectif=1,019, nb_stagiaires=2,260, ratio=2.2
+- GROUPE KEDGE BUSINESS SCHOOL : effectif=1,017, nb_stagiaires=10,608, ratio=10.4
+- NANTES UNIVERSITE : effectif=1,017, nb_stagiaires=5,472, ratio=5.4
+- CESI SAS : effectif=1,016, nb_stagiaires=4,273, ratio=4.2
+- INST DE TRAVAIL SOCIAL ET DE RECHERCHES SOCIALES : effectif=1,011, nb_stagiaires=1,106, ratio=1.1
+- EDUPRAT FORMATIONS : effectif=1,003, nb_stagiaires=22,150, ratio=22.1
+
+- Valeur max observée : 375,438
+- Statistiques (<=1000) : moyenne 7.07, médiane 1, P90 9, P99 134
