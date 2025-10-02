@@ -1,3 +1,12 @@
+## Synthèse
+Départements analysés : 106
+OF avec CP : 79 587 (51.6%)
+OF sans CP : 74 520 (48.4%)
+Top 10 départements : 39.7% du TAM (sur base OF avec CP)
+Top 30 départements : 68.8% du TAM (sur base OF avec CP)
+DOM-TOM : 3 035 OF (3.8% des OF avec CP)
+Clusters identifiés : 7
+
 ## Synthèse exécutive
 
 TAM TOTAL QUALIFIÉ : 12 303 OF
