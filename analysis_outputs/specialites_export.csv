@@ -1,0 +1,61 @@
+table,rang,code,label,of_total,pct_base,of_tam,pct_tam,extra
+top50,1,333.0,"Enseignement, formation",10897,7.07,1443,11.73,
+top50,2,326.0,"Informatique, traitement de l'information, réseaux de transmission des données",9462,6.14,747,6.07,
+top50,3,100.0,Formations générales,9200,5.97,1248,10.14,
+top50,4,999.0,Autres...,9137,5.93,411,3.34,
+top50,5,312.0,"Commerce, vente",8267,5.36,555,4.51,
+top50,6,413.0,Développement des capacités comportementales et relationnelles,7297,4.74,544,4.42,
+top50,7,331.0,Santé,6923,4.49,617,5.02,
+top50,8,136.0,"Langues vivantes, civilisations étrangères et régionales",6112,3.97,330,2.68,
+top50,9,315.0,"Ressources humaines, gestion du personnel, gestion de l'emploi",6007,3.9,451,3.67,
+top50,10,336.0,"Coiffure, esthétique et autres spécialités des services aux personnes",4260,2.76,210,1.71,
+top50,11,314.0,"Comptabilité, gestion",3659,2.37,307,2.5,
+top50,12,415.0,"Développement des capacités d'orientation, d'insertion ou de réinsertion sociales et professionnelles",3249,2.11,186,1.51,
+top50,13,344.0,"Sécurité des biens et des personnes, police, surveillance",3180,2.06,366,2.97,
+top50,14,311.0,"Transport, manutention, magasinage",3087,2.0,625,5.08,
+top50,15,128.0,"Droit, sciences politiques",2856,1.85,166,1.35,
+top50,16,320.0,Spécialités plurivalentes de la communication,2646,1.72,142,1.15,
+top50,17,310.0,Spécialités plurivalentes des échanges et de la gestion,2312,1.5,225,1.83,
+top50,18,221.0,"Agro-alimentaire, alimentation, cuisine",2092,1.36,243,1.98,
+top50,19,313.0,"Finances, banque, assurances",2060,1.34,89,0.72,
+top50,20,125.0,Linguistique,2055,1.33,186,1.51,
+top50,21,324.0,"Secrétariat, bureautique",2016,1.31,99,0.8,
+top50,22,124.0,Psychologie,1986,1.29,96,0.78,
+top50,23,321.0,Journalisme et communication,1904,1.24,59,0.48,
+top50,24,332.0,Travail social,1814,1.18,131,1.06,
+top50,25,330.0,Spécialités plurivalentes sanitaires et sociales,1788,1.16,207,1.68,
+top50,26,300.0,Spécialités plurivalentes des services,1767,1.15,161,1.31,
+top50,27,131.0,"Français, littérature et civilisation françaises",1310,0.85,72,0.59,
+top50,28,134.0,Autres disciplines artistiques et spécialités artistiques plurivalentes,1283,0.83,82,0.67,
+top50,29,255.0,"Electricité, électronique (non compris automatisme et productique)",1238,0.8,102,0.83,
+top50,30,411.0,Pratiques sportives,1222,0.79,106,0.86,
+top50,31,414.0,Développement des capacités individuelles d'organisation,1138,0.74,49,0.4,
+top50,32,323.0,"Techniques de l'image et du son, métiers connexes du spectacle",1064,0.69,70,0.57,
+top50,33,335.0,"Animation culturelle, sportive et de loisirs",1014,0.66,137,1.11,
+top50,34,120.0,"Spécialités pluridisciplinaires, sciences humaines et droit",1010,0.66,94,0.76,
+top50,35,133.0,"Musique, arts du spectacle",1000,0.65,117,0.95,
+top50,36,410.0,Spécialités concernant plusieurs capacités,936,0.61,70,0.57,
+top50,37,232.0,Bâtiment: construction et couverture,851,0.55,92,0.75,
+top50,38,122.0,Economie,842,0.55,12,0.1,
+top50,39,423.0,"Vie familiale, vie sociale et autres formations au développement personnel",825,0.54,35,0.28,
+top50,40,227.0,"Energie, génie climatique",816,0.53,97,0.79,
+top50,41,334.0,"Accueil, hôtellerie, tourisme",765,0.5,40,0.33,
+top50,42,212.0,"Productions animales, élevage spécialisé, aquaculture, ...",703,0.46,74,0.6,
+top50,43,200.0,Technologies industrielles fondamentales,691,0.45,71,0.58,
+top50,44,201.0,Technologies de commandes des transformations industrielles,676,0.44,133,1.08,
+top50,45,210.0,Spécialités plurivalentes de l'agronomie et de l'agriculture,674,0.44,68,0.55,
+top50,46,412.0,Développement des capacités mentales et apprentissages de base,590,0.38,42,0.34,
+top50,47,110.0,Spécialités pluriscientifiques,589,0.38,45,0.37,
+top50,48,123.0,"Sciences sociales (y compris démographie, anthropologie)",559,0.36,24,0.2,
+top50,49,132.0,Arts plastiques,538,0.35,22,0.18,
+top50,50,211.0,"Productions végétales,cultures spécialisées",534,0.35,69,0.56,
+macro_theme,,,Autre,42238,27.41,3242,26.35,230.87
+macro_theme,,,Soft Skills,27450,17.81,2624,21.33,283.06
+macro_theme,,,Services,14664,9.52,1429,11.62,263.85
+macro_theme,,,Commerce/Gestion,16298,10.58,1176,9.56,271.87
+macro_theme,,,Santé,12014,7.8,1025,8.33,283.75
+macro_theme,,,Industrie,7299,4.74,893,7.26,240.29
+macro_theme,,,Tech/Digital,9595,6.23,758,6.16,220.4
+macro_theme,,,Langues,8232,5.34,522,4.24,181.79
+macro_theme,,,Sécurité,3180,2.06,366,2.97,663.09
+macro_theme,,,Juridique,3936,2.55,268,2.18,283.55
