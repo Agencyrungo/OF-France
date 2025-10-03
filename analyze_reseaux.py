@@ -255,8 +255,6 @@ def is_tam(record: Record) -> bool:
         return False
     if record.nb_stagiaires is None or record.nb_stagiaires <= 0:
         return False
-    if record.actions_form is None:
-        return False
     return True
 
 
