@@ -1,0 +1,51 @@
+rang,denomination,code_postal,ville,adresse,region,dept,effectif,nb_stagiaires,stagiaires_par_formateur,specialite,production_estimee_livrables_par_mois
+1,DIGITAL SKILLS FOUNDATION,,,,Auvergne-Rhône-Alpes,-,5,66855,13371.0,"Enseignement, formation",5571.2
+2,BUTTERFLY AERO TRAINING,,,,Île-de-France,-,7,59466,8495.1,"Transport, manutention, magasinage",4955.5
+3,ORICA,,,,Hauts-de-France,-,5,14298,2859.6,"Finances, banque, assurances",1191.5
+4,INFANS GROUP,69150.0,DECINES CHARPIEU,8  AV SIMONE VEIL IMMEUBLE LE STADIUM DECINES CHARPIEU,Auvergne-Rhône-Alpes,69,4,11827,2956.8,Linguistique,985.6
+5,P.E.C.S.  FRANCE,,,,Île-de-France,-,8,10648,1331.0,"Enseignement, formation",887.3
+6,KAPTITUDE SAS,94230.0,CACHAN,45/47 AVENUE CARNOT,Île-de-France,94,9,10254,1139.3,"Sécurité des biens et des personnes, police, surveillance",854.5
+7,COOP-EGAL SARL,,,,Occitanie,-,8,9180,1147.5,"Ressources humaines, gestion du personnel, gestion de l'emploi",765.0
+8,KALEA FORMATION POUR LE DEVELOPPEMENT,92600.0,ASNIERES SUR SEINE,36  RUE DE NANTERRE,Île-de-France,92,6,9069,1511.5,"Finances, banque, assurances",755.8
+9,SINFONI,,,,Bretagne,-,8,8739,1092.4,"Electricité, électronique (non compris automatisme et productique)",728.2
+10,IFIS  INTERACTIVE,,,,Île-de-France,-,6,8582,1430.3,Transformations chimiques et apparentées (y compris pharmaceutiques),715.2
+11,SARL CVH,,,,Occitanie,-,7,8401,1200.1,"Développement des capacités d'orientation, d'insertion ou de réinsertion sociales et professionnelles",700.1
+12,I KNOW U WILL,,,,Île-de-France,-,4,8000,2000.0,Autres...,666.7
+13,YOOZ,,,,Occitanie,-,9,7460,828.9,"Informatique, traitement de l'information, réseaux de transmission des données",621.7
+14,ACCORDIA,,,,Île-de-France,-,9,7277,808.6,"Ressources humaines, gestion du personnel, gestion de l'emploi",606.4
+15,SELARL HAAS SOCIETE D'AVOCATS,,,,Île-de-France,-,10,7235,723.5,"Droit, sciences politiques",602.9
+16,FRANCE PROTECTION FEU,45140.0,INGRE,01 ROUTE NATIONALE,Centre-Val de Loire,45,4,6972,1743.0,"Sécurité des biens et des personnes, police, surveillance",581.0
+17,MCDONALD'S FRANCE SERVICES,,,,Île-de-France,-,10,6959,695.9,Développement des capacités comportementales et relationnelles,579.9
+18,REVERTO,,,,Auvergne-Rhône-Alpes,-,7,6820,974.3,Développement des capacités comportementales et relationnelles,568.3
+19,FAC & ASSOCIES,63800.0,COURNON D AUVERGNE,46  RUE DE SARLIEVE,Auvergne-Rhône-Alpes,63,8,6706,838.2,"Droit, sciences politiques",558.8
+20,L'ECOLE DES METIERS DU FRAIS,,,,Auvergne-Rhône-Alpes,-,8,6642,830.2,"Commerce, vente",553.5
+21,LAWREA,,,,Auvergne-Rhône-Alpes,-,6,6482,1080.3,Spécialités plurivalentes des services,540.2
+22,GENESIA FINANCE,75001.0,PARIS 01,3  BD DE SEBASTOPOL,Île-de-France,75,10,6382,638.2,"Finances, banque, assurances",531.8
+23,AM&JT,,,,Occitanie,-,9,6298,699.8,"Finances, banque, assurances",524.8
+24,ANESTHESIA SAFETY NETWORK,92500.0,RUEIL MALMAISON,18 B RUE DES VAUSSOURDS,Île-de-France,92,8,5862,732.8,Sciences de la vie,488.5
+25,CLAUDEPORET,75015.0,PARIS 15,2 RUE SAINT SAENS,Île-de-France,75,9,5740,637.8,"Enseignement, formation",478.3
+26,VB MANAGEMENT,,,,Provence-Alpes-Côte d'Azur,-,10,5672,567.2,"Sécurité des biens et des personnes, police, surveillance",472.7
+27,FMS INCENDIE,60290.0,LAIGNEVILLE,1396 rue du 8 mai 1945,Hauts-de-France,60,6,5626,937.7,"Sécurité des biens et des personnes, police, surveillance",468.8
+28,ASSOCIATION NATIONALE CONSEILS FINANCIERS   CIF,75009.0,PARIS 09,92 rue d'Amsterdam,Île-de-France,75,9,5359,595.4,"Finances, banque, assurances",446.6
+29,ASSISTANCE CONSEIL FORMATION,,,,Bourgogne-Franche-Comté,-,6,5304,884.0,"Sécurité des biens et des personnes, police, surveillance",442.0
+30,DID SECURITE,68390.0,SAUSHEIM,5 AV PIERRE PFLIMLIN PARC ESPALE,Grand Est,68,9,5217,579.7,"Sécurité des biens et des personnes, police, surveillance",434.8
+31,FORMEXPERT,86180.0,BUXEROLLES,42 RUE DU PLANTY,Nouvelle-Aquitaine,86,7,5067,723.9,Formations générales,422.2
+32,EVOLIS FORMATION,59300.0,VALENCIENNES,59  BOULEVARD PATER,Hauts-de-France,59,10,4975,497.5,"Enseignement, formation",414.6
+33,TECC FORMATION,,,,Pays de la Loire,-,10,4392,439.2,"Sécurité des biens et des personnes, police, surveillance",366.0
+34,SOC EUROPEENNE DE CONTROLE TECHNIQUE AUTOMOBILE (AUTOSUR),,,,Île-de-France,-,9,4187,465.2,Moteurs et mécanique auto,348.9
+35,LEMON ADDS,,,,Nouvelle-Aquitaine,-,5,4095,819.0,Développement des capacités comportementales et relationnelles,341.2
+36,FRANCE ELEVATEUR,,,,Grand Est,-,4,4048,1012.0,"Spécialités plutitechnologiques, mécanique-électricité",337.3
+37,SECURIFORM,,,,Hauts-de-France,-,10,4043,404.3,"Sécurité des biens et des personnes, police, surveillance",336.9
+38,EGS (NOM COMMERCIAL FORMAFORCE),,,,Hauts-de-France,-,5,3985,797.0,Bâtiment: construction et couverture,332.1
+39,ACADEMY DE LA FORMATION - SARL D.E.P.,50113.0,CHERBOURG EN COTENTIN,130 Rue Longue Mare CHERBOURG EN COTENTIN,Normandie,50,10,3948,394.8,Formations générales,329.0
+40,M&BOCA,,,,Nouvelle-Aquitaine,-,5,3922,784.4,Spécialités plurivalentes de la communication,326.8
+41,CENTAURE ILE DE FRANCE,,,,Île-de-France,-,9,3908,434.2,"Enseignement, formation",325.7
+42,FOCUS QUALITE,,,,Occitanie,-,5,3752,750.4,Santé,312.7
+43,SENIOR DENTAL CONFORT,92270.0,BOIS COLOMBES,7  RUE DES PEUPLIERS,Île-de-France,92,3,3735,1245.0,Santé,311.2
+44,ERVE Philippe - PREV-ONE FORMATION,49450.0,ST MACAIRE EN MAUGES,"2, rue des Alouettes",Pays de la Loire,49,5,3645,729.0,"Sécurité des biens et des personnes, police, surveillance",303.8
+45,SELFORME,,,,Bourgogne-Franche-Comté,-,9,3563,395.9,"Energie, génie climatique",296.9
+46,SOCIETE FINANCIERE XAVIER HALLIGON - UP'TEAMHOMME,,,,Pays de la Loire,-,5,3540,708.0,"Ressources humaines, gestion du personnel, gestion de l'emploi",295.0
+47,AFOR+ SAS,31000.0,TOULOUSE,31 RUE DE METZ Appartement 46,Occitanie,31,9,3407,378.6,Travail social,283.9
+48,IDEAL PREVENTION SECURITE AUDIT CONSEIL,,,,Auvergne-Rhône-Alpes,-,10,3386,338.6,"Transport, manutention, magasinage",282.2
+49,ARCHE LIVIA,,,,Provence-Alpes-Côte d'Azur,-,7,3352,478.9,Spécialités plurivalentes sanitaires et sociales,279.3
+50,GUY HOQUET L'IMMOBILIER,94250.0,GENTILLY,39 AVENUE PAUL VAILLANT COUTURIER,Île-de-France,94,7,3293,470.4,"Commerce, vente",274.4
